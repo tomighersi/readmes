@@ -1,6 +1,6 @@
-# Virtuales
+# Ingenieria de Software
 
-Proyecto de Aprendizaje para la materia Ingenieria de Software llevado a cabo con Python.
+Proyecto de Aprendizaje para la materia Ingenieria de Software llevado a cabo con Python por Matias Lucero.
 
 ## Instalacion y Ejecucion
 
