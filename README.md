@@ -37,10 +37,10 @@ python manage.py runserver
 ## Estructura de Carpetas
 
 - `itec2025/` (Carpeta de Proyecto)
-   - itec2025/ (Aplicacion principal)
-     - __pycache__/
-     - __init.py__
-     - asgi.py
+   - `itec2025/` (Aplicacion principal)
+     - `__pycache__/`
+     - `__init.py__`
+     - `asgi.py`
      - context_processors.py (Funciones creadas para tenerlas disponibles en cualquier template, revisar settings.py)
      - settings.py (Diferentes configuraciones de nuestro proyecto)
      - urls.py (Donde se define el enrutado principal)
