@@ -41,7 +41,7 @@ python manage.py runserver
      - `__pycache__/`
      - `__init.py__`
      - `asgi.py`
-     - `context_processors.py` (Funciones creadas para tenerlas disponibles en cualquier template, revisar settings.py)
+     - `context_processors.py` (Funciones creadas que retornan variables para usar en cualquier template.py)
      - `settings.py` (Diferentes configuraciones de nuestro proyecto)
      - `urls.py` (Donde se define el enrutado principal)
      - `wsgi.py`
