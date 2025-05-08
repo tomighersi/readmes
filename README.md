@@ -34,14 +34,14 @@ cd itec2025
 python manage.py runserver
 ```
 
-## Estructura de Carpetas
+## Estructura del Proyecto
 
 - `itec2025/` (Carpeta de Proyecto)
    - `itec2025/` (Aplicacion principal)
      - `__pycache__/`
      - `__init.py__`
      - `asgi.py`
-     - `context_processors.py` (Funciones creadas que retornan variables para usar en cualquier template.py)
+     - `context_processors.py` (Funciones creadas que retornan variables para usar en cualquier template)
      - `settings.py` (Diferentes configuraciones de nuestro proyecto)
      - `urls.py` (Donde se define el enrutado principal)
      - `wsgi.py`
