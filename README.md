@@ -10,6 +10,7 @@ git clone https://github.com/matiasluceroitec/virtuales.git
 cd virtuales
 ```
 2. Crear Entorno Virtual y Activarlo:
+
 `Linux:`
 ```
 python3 -m venv env
