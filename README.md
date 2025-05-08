@@ -60,3 +60,4 @@ python manage.py runserver
      - `views.py` (Donde realizamos la logica. Creando funciones, clases, etc. para poder mostrar algo)
    - `db.sqlite3` (Archivo de base de datos, actualizada al hacer un migrate)
    - `manage.py` (Archivo py para realizar comandos de nuestro proyecto)
+- `requirements.txt` (Archivo donde se encuentran las dependencias. Lo que esta instalado en nuestro proyecto)
