@@ -1,6 +1,6 @@
 # Ingenieria de Software
 
-Proyecto de Aprendizaje para la materia Ingenieria de Software llevado a cabo con Python por Matias Lucero.
+Proyecto de Aprendizaje para la materia Ingenieria de Software llevado a cabo con Python (Django) por Matias Lucero.
 
 ## Instalacion y Ejecucion
 
